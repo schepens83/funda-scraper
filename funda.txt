@@ -1,0 +1,4 @@
+297500;Eengezinswoning, tussenwoning;Bestaande bouw;1935;120;170;419;74;3;D;In woonwijk;54;Garage
+297500;Eengezinswoning, tussenwoning;Bestaande bouw;1935;120;170;419;74;3;D;In woonwijk;54;Garage
+297500;Eengezinswoning, tussenwoning;Bestaande bouw;1935;120;170;419;74;3;D;In woonwijk;54;Garage
+297500;Eengezinswoning, tussenwoning;Bestaande bouw;1935;120;170;419;74;3;D;In woonwijk;54;Garage

@@ -1,0 +1,1 @@
+Small (sloppy) ruby script to extract information from dutch house marketplace site. Intended only for appropriate private use!
